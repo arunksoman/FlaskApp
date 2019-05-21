@@ -1,0 +1,17 @@
+[
+{
+	"link": "https://twitter.com",
+	"tooltip": "follow us on Twitter",
+	"icon": "twitter"
+},
+{
+	"link": "https://facebook.com",
+	"tooltip": "Like us on Facebook",
+	"icon": "facebook"
+},
+{
+	"link": "https://instagram.com",
+	"tooltip": "Like us on Instagram",
+	"icon": "instagram"
+}
+]
